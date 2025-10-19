@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hospital Database System",
+  "description": "A comprehensive system for managing patients, doctors, visits, medicines, and rooms in a hospital. Users can add new entries for each category and view the existing records in a clean, organized interface.",
+  "requestFramePermissions": []
+}
